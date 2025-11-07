@@ -1,7 +1,9 @@
 from typing import List
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain.docstore.document import Document
+# from langchain.docstore.document import Document
+from langchain.schema import Document
+
 from config import EMBEDDING_MODEL_REPO_ID, VECTOR_STORE_PATH
 
 class VectorStoreManager:
