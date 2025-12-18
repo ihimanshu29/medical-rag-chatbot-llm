@@ -4,6 +4,9 @@ This is a Retrieval-Augmented Generation (RAG) based chatbot designed to answer 
 
 **Live Demo Link:** https://medichat-bot.streamlit.app/
 
+<img width="1205" height="827" alt="Screenshot 2025-12-18 160547" src="https://github.com/user-attachments/assets/9783ce00-c4cd-4eb8-bfb4-13949369c791" />
+
+
 ---
 
 ## Features
