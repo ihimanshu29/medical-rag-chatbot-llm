@@ -10,5 +10,5 @@ class PredictionPipeline:
         """
         Gets a response from the QA chain.
         """
-        result = self.qa_chain({"query": query})
+        result = self.qa_chain.invoke({"query": query})
         return result["result"]
